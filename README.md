@@ -39,4 +39,5 @@ Full report with introduction, methodology, results, and references: [RO-HDH-PV_
 
 **Contact**  
 randbushnaq@gmail.com | (https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+
 Seeking funded PhD in desalination/renewables 2026
