@@ -25,11 +25,17 @@ This feasibility study integrates Concentrated Photovoltaic/Thermal (CPV/T) syst
 Full report with introduction, methodology, results, and references: [RO-HDH-PV_Hybrid_Desalination_Report.pdf](		http://tmpfiles.org/dl/11658521/ro-hdh-meddesalinationproject.pdf)
 
  Figures** 
- [System Schematic] (https://ibb.co/XZVTdxtY)
-[Economic Analysis] (https://ibb.co/rfXSdb3B)
-[RO Optimization Plot](https://ibb.co/Wv4BK2Q9)  
-[CPV/T Efficiency Graph](https://ibb.co/RGBCbTZG)  
-[HDH Distilled Water vs RH/Temp](https://ibb.co/Ps7w1nqz)  
+ 
+ [System Schematic] 
+ (https://ibb.co/XZVTdxtY)
+[Economic Analysis]
+(https://ibb.co/rfXSdb3B)
+[RO Optimization Plot]
+(https://ibb.co/Wv4BK2Q9)  
+[CPV/T Efficiency Graph]
+(https://ibb.co/RGBCbTZG)  
+[HDH Distilled Water vs RH/Temp]
+(https://ibb.co/Ps7w1nqz)  
 
 **Contact**  
 randbushnaq@gmail.com | (https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
